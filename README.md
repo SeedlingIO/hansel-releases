@@ -54,9 +54,6 @@ We can't cancel your account. Because none of it lives with us.**
 
 ---
 
-## Download
-hansel.wicked-crumbs.com/download
-
 
 **Requirements:**
 - Windows 10 or later
