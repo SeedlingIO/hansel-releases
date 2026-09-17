@@ -49,7 +49,6 @@ We can't cancel your account. Because none of it lives with us.**
 | Encrypted team messaging | ✅ | ❌ | ❌ | ❌ |
 | Enterprise admin console | ✅ | ✅ | ✅ | ❌ |
 | DLP + eDiscovery built in | ✅ | ✅ (add-on) | ✅ (add-on) | ❌ |
-| No account suspension possible | ✅ | ❌ | ❌ | ❌ |
 | Keys stay on your device | ✅ | ❌ | ❌ | Partial |
 
 ---
